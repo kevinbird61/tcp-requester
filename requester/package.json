@@ -1,0 +1,15 @@
+{
+  "name": "kevinbird61",
+  "main": "main.js",
+  "config": {
+      "version": "v1.0.0"
+  },
+  "scripts":{
+      "build": "npm install",
+      "start": "node main.js",
+      "all": "npm run build && npm run start"
+  },
+  "dependencies": {
+
+  }
+}
